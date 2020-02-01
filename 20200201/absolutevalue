@@ -1,0 +1,7 @@
+print('求绝对值')
+a=float(input('请输入一个数字：'))
+if a>0:
+    b=a
+else:
+    b=-a
+print('该数字的绝对值为：'+ str(b))
